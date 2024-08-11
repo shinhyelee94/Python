@@ -1,0 +1,13 @@
+- Download python from the website: https://www.python.org/downloads/
+
+- Check the list of "Use admin privileges when installing py.exe" and "Add python.exe to PATH" (for using python for Command Prompt)
+
+- Generate Python code in Notepad (or other app), change language in Python ('Language'-'P'-'Python'), and save the file.
+
+- In Command Prompt, change the location by typing cd C:\Users\...the file location
+*How to start Command Prompt: Press Win + R, type cmd, and press Enter or Search for "Command Prompt" in the Start menu and open it.
+*if the file is in D, type :D first, and if the file is in C type C: first
+
+- After changing the location then type file_name.py
+
+- If the code in the file is correct, it will show the result from the code from the file. 
